@@ -1,0 +1,15 @@
+{
+	"name": "Sruthi-valli",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4f4df9e6-39a5-46b4-afec-3733bb822534",
+		"tenantId": "f1989358-98ac-46b8-9235-21a08164e780"
+	}
+}
