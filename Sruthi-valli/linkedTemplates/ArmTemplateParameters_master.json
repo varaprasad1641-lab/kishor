@@ -1,0 +1,33 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "Sruthi-valli"
+		},
+		"LS_SQL_SERVER_CUSTOMERS_password": {
+			"value": ""
+		},
+		"AzureKeyVault1_properties_typeProperties_baseUrl": {
+			"value": "https://demo-keywa.vault.azure.net/"
+		},
+		"LS_ADLS_DEMO_properties_typeProperties_url": {
+			"value": "https://demokishoradls.dfs.core.windows.net/"
+		},
+		"LS_SQL_SERVER_CUSTOMERS_properties_typeProperties_server": {
+			"value": "demo-server-td.database.windows.net"
+		},
+		"LS_SQL_SERVER_CUSTOMERS_properties_typeProperties_database": {
+			"value": "free-TD-sql-DB"
+		},
+		"LS_SQL_SERVER_CUSTOMERS_properties_typeProperties_userName": {
+			"value": "Kishor"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
