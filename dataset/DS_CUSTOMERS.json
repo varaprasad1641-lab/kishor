@@ -1,10 +1,6 @@
 {
 	"name": "DS_CUSTOMERS",
 	"properties": {
-		"linkedServiceName": {
-			"referenceName": "LS_SQL_SERVER_CUSTOMERS",
-			"type": "LinkedServiceReference"
-		},
 		"annotations": [],
 		"type": "AzureSqlTable",
 		"schema": [
